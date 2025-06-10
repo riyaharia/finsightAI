@@ -1,0 +1,162 @@
+{
+  "companyName": "Reliance Industries Limited",
+  "financials": [
+    {
+      "quarter": "31 Dec 2024",
+      "totalIncome": 248079,
+      "totalExpenses": 219436,
+      "netProfit": 21804,
+      "netProfitPercentage": 8.8,
+      "earningsPerShare": 13.7
+    },
+    {
+      "quarter": "30 Sep 2024",
+      "totalIncome": 240357,
+      "totalExpenses": 215320,
+      "netProfit": 19101,
+      "netProfitPercentage": 8,
+      "earningsPerShare": 12.24
+    },
+    {
+      "quarter": "31 Dec 2023",
+      "totalIncome": 231839,
+      "totalExpenses": 206006,
+      "netProfit": 19488,
+      "netProfitPercentage": 8.4,
+      "earningsPerShare": 12.76
+    }
+  ],
+  "segmentResults": [
+    {
+      "quarter": "31 Dec 2024",
+      "segments": [
+        {
+          "name": "Oil to Chemicals (O2C)",
+          "totalIncome": 149595,
+          "netProfit": 12819,
+          "netProfitPercentage": 8.6
+        },
+        {
+          "name": "Oil and Gas",
+          "totalIncome": 6370,
+          "netProfit": 4222,
+          "netProfitPercentage": 66.3
+        },
+        {
+          "name": "Retail",
+          "totalIncome": 90351,
+          "netProfit": 5322,
+          "netProfitPercentage": 5.9
+        },
+        {
+          "name": "Digital Services",
+          "totalIncome": 39733,
+          "netProfit": 10252,
+          "netProfitPercentage": 25.8
+        },
+        {
+          "name": "Others",
+          "totalIncome": 12236,
+          "netProfit": 114,
+          "netProfitPercentage": 0.9
+        }
+      ]
+    },
+    {
+      "quarter": "30 Sep 2024",
+      "segments": [
+        {
+          "name": "Oil to Chemicals (O2C)",
+          "totalIncome": 155580,
+          "netProfit": 10613,
+          "netProfitPercentage": 6.8
+        },
+        {
+          "name": "Oil and Gas",
+          "totalIncome": 6222,
+          "netProfit": 3947,
+          "netProfitPercentage": 63.4
+        },
+        {
+          "name": "Retail",
+          "totalIncome": 76325,
+          "netProfit": 4432,
+          "netProfitPercentage": 5.8
+        },
+        {
+          "name": "Digital Services",
+          "totalIncome": 38055,
+          "netProfit": 9858,
+          "netProfitPercentage": 25.9
+        },
+        {
+          "name": "Others",
+          "totalIncome": 11623,
+          "netProfit": 175,
+          "netProfitPercentage": 1.5
+        }
+      ]
+    },
+    {
+      "quarter": "31 Dec 2023",
+      "segments": [
+        {
+          "name": "Oil to Chemicals (O2C)",
+          "totalIncome": 141096,
+          "netProfit": 11994,
+          "netProfitPercentage": 8.5
+        },
+        {
+          "name": "Oil and Gas",
+          "totalIncome": 6719,
+          "netProfit": 4116,
+          "netProfitPercentage": 61.2
+        },
+        {
+          "name": "Retail",
+          "totalIncome": 83040,
+          "netProfit": 4864,
+          "netProfitPercentage": 5.9
+        },
+        {
+          "name": "Digital Services",
+          "totalIncome": 33463,
+          "netProfit": 8356,
+          "netProfitPercentage": 25
+        },
+        {
+          "name": "Others",
+          "totalIncome": 12476,
+          "netProfit": 117,
+          "netProfitPercentage": 0.9
+        }
+      ]
+    }
+  ],
+  "insights": {
+    "totalIncomeGrowth": [
+      "Total income increased from 231839 crore in Dec 2023 to 248079 crore in Dec 2024, showing a positive growth.",
+      "Sequential growth in total income from Sep 2024 to Dec 2024 indicates a positive trend."
+    ],
+    "netProfitGrowth": [
+      "Net profit increased from 19488 crore in Dec 2023 to 21804 crore in Dec 2024, showcasing a positive growth.",
+      "Profit percentage shows a marginal decrease from 8.4% in Dec 2023 to 8.8% in Dec 2024."
+    ],
+    "earningsPerShareGrowth": [
+      "Earnings per share increased from 12.76 in Dec 2023 to 13.7 in Dec 2024 indicating robust profitability.",
+      "Sequential growth in EPS from Sep 2024 to Dec 2024 shows a positive trend."
+    ],
+    "segmentPerformance": [
+      "The Oil to Chemicals segment demonstrates consistent growth in both revenue and net profit percentage across quarters.",
+      "Digital Services segment has shown strong performance with significant growth in both revenue and net profit percentage."
+    ]
+  },
+  "managementCommentary": [
+    "The said Financial Results were duly reviewed and recommended by the Audit Committee and approved by the Board of Directors.",
+    "The meeting of the Board of Directors commenced at 5:15 p.m. (IST).",
+    "Financial Results were approved by the Board at 7:15 p.m. (IST).",
+    "During the quarter, the restructuring of the Media and Jio Cinema businesses of Viacom18 Media Private Limited by demerging these businesses into Star India Private Limited (SIPL) was consummated.",
+    "RIL made investment of ₹11,500 crore in SIPL resulting in SIPL being consolidated.",
+    "This transaction has been accounted as a reverse acquisition in accordance with Ind AS 103 - Business Combinations' in the books of SIPL and in the consolidated results of the Company."
+  ]
+}
